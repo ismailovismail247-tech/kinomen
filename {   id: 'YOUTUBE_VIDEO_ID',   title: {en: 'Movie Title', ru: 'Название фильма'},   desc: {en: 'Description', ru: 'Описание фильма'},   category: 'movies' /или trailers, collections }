@@ -1,0 +1,6 @@
+{
+  id: 'YOUTUBE_VIDEO_ID',
+  title: {en: 'Movie Title', ru: 'Название фильма'},
+  desc: {en: 'Description', ru: 'Описание фильма'},
+  category: 'movies' // или trailers, collections
+}
